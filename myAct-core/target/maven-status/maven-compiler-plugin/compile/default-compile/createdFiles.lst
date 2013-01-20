@@ -1,0 +1,15 @@
+com/lejingw/app/myact/model/account/Group.class
+com/lejingw/app/myact/util/WorkflowUtils.class
+com/lejingw/app/myact/util/Variable.class
+com/lejingw/app/myact/test/data/DataInitializer.class
+com/lejingw/app/myact/model/account/User.class
+com/lejingw/app/myact/model/oa/Leave.class
+com/lejingw/app/myact/util/PropertyFileUtil.class
+com/lejingw/app/myact/model/IdEntity.class
+com/lejingw/app/myact/util/PropertiesLoader.class
+com/lejingw/app/myact/form/UsersFormType.class
+com/lejingw/app/myact/test/data/DataFixtures.class
+com/lejingw/app/myact/util/UserUtil.class
+com/lejingw/app/myact/util/DateConverter.class
+com/lejingw/app/myact/util/PropertyType.class
+com/lejingw/app/myact/util/ProcessDefinitionCache.class

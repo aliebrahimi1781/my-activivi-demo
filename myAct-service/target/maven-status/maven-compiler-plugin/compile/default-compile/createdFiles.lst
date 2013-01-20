@@ -1,0 +1,8 @@
+com/lejingw/app/myact/service/activiti/oa/leave/AfterModifyApplyContentProcessor.class
+com/lejingw/app/myact/service/activiti/WorkflowTraceService.class
+com/lejingw/app/myact/util/WorkflowUtils.class
+com/lejingw/app/myact/service/activiti/oa/leave/ReportBackEndProcessor.class
+com/lejingw/app/myact/service/activiti/oa/dispatch/DispatchWorkflowService.class
+com/lejingw/app/myact/service/activiti/oa/leave/LeaveWorkflowService.class
+com/lejingw/app/myact/service/activiti/WorkflowProcessDefinitionService.class
+com/lejingw/app/myact/service/activiti/oa/leave/LeaveManager.class
